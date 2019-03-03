@@ -1,4 +1,4 @@
-# TopSwagCode.Serverless.Payment
+# TopSwagCode.Lambda.Payment
 
 There are 2 ways we can tackle the task of creating a AWS Lambda function and deploy it. 
 
